@@ -69,7 +69,7 @@ Once your payment is confirmed, you can collect it in two ways:
 
 Not registered yet? Follow these steps:
 
-1. **Visit a BISP Office:** Find the nearest center at **[bisp.gov.pk](https://bisp.gov.pk)**.  
+1. **Visit a BISP Office:** Find the nearest center at **[bisp.gov.pk](https://govtinfohub.pk/pmt-score-eligibility/)**.  
 2. **Bring Your CNIC & Documents:** If possible, carry proof of income.  
 3. **Complete the Registration Form:** Fill in your details and submit the form.  
 4. **Wait for Approval:** You will receive an **SMS from 8171** once your application is verified (**processing takes 2-4 weeks**).  
